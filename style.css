@@ -4,6 +4,7 @@ body {
   
   span {
     display: inline-block;
+    border: 2px;
   }
   
   /* #pics span {
